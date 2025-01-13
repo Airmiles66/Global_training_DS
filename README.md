@@ -1,4 +1,4 @@
-# global_training_DS
+# Global training exercise
 
 This ia a repository for learning git
 
