@@ -1,1 +1,1 @@
-# globla_training_DS
+# global_training_DS
